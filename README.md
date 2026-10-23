@@ -1,7 +1,7 @@
 # gg-nightly
 
 Nightly build status for every repo in a GitHub org, via the `gh` CLI.
-
+![screenshot.png](screenshot.png)
 ## Requirements
 - Go 1.26+ and the GitHub CLI signed in (`gh auth login`)
 - Linux (Debian/Ubuntu): `sudo apt install gcc libgl1-mesa-dev xorg-dev`
